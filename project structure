@@ -1,0 +1,12 @@
+space-economy-dashboard/
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   └── routers/
+│   │       ├── market.py
+│   │       ├── companies.py
+│   │       └── portfolio.py
+│   └── requirements.txt
+├── frontend/
+│   └── index.html          # Futuristic dashboard
+└── README.md
